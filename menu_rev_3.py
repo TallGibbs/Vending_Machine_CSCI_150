@@ -1,4 +1,3 @@
-# Chris Gibbs
 # Deliverable #3 - Vending Machine Project - Menu Function
 # Description: This function displays PPE for sale and allows selection for purchase.
 # It will also display the cost of the item chosen by the user.
