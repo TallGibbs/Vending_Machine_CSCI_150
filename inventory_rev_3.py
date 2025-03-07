@@ -1,4 +1,3 @@
-# Chris Gibbs
 # Deliverable #3 - Vending Machine Project - Inventory
 # Description: This program updates the inventory levels after PPE is purchased
 
