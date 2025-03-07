@@ -1,4 +1,3 @@
-# Chris Gibbs
 # Deliverable #3 - Vending Machine Project - Payment
 # Description: This program allows PPE to be paid for.
 # It will allow for badge, credit card or cash to be used.
