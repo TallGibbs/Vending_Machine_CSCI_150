@@ -1,4 +1,3 @@
-# Chris Gibbs
 # Deliverable #3 - Vending Machine Project - Refund
 # Description: This program dispenses change (refund) to the user.
 
